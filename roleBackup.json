@@ -1,0 +1,3129 @@
+{
+  "1072935678020681778": {
+    "1301838157154746369": {
+      "name": "Admin",
+      "color": 0,
+      "permissions": "8",
+      "position": 9,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1070096935756759091",
+        "1267087088575184948"
+      ],
+      "tags": null,
+      "createdTimestamp": 1730452803649
+    },
+    "1301838394506088550": {
+      "name": "nouveau rôle",
+      "color": 0,
+      "permissions": "0",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1730452860238
+    },
+    "1301838397710532700": {
+      "name": "nouveau rôle",
+      "color": 0,
+      "permissions": "0",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1730452861002
+    },
+    "1320122008255860839": {
+      "name": "atomicradio",
+      "color": 0,
+      "permissions": "3146760",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "904084297831571518"
+      ],
+      "tags": {
+        "botId": "904084297831571518"
+      },
+      "createdTimestamp": 1734812013449
+    },
+    "1337846809565069423": {
+      "name": "Gérant de la boit de nuit",
+      "color": 0,
+      "permissions": "0",
+      "position": 10,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1070096935756759091"
+      ],
+      "tags": null,
+      "createdTimestamp": 1739037935392
+    },
+    "1337850033390751777": {
+      "name": "AllBot",
+      "color": 0,
+      "permissions": "8",
+      "position": 15,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1293498648365371392"
+      ],
+      "tags": {
+        "botId": "1293498648365371392"
+      },
+      "createdTimestamp": 1739038704012
+    },
+    "1337871121248424029": {
+      "name": "Boite de nuit IA",
+      "color": 0,
+      "permissions": "8",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1295121225592602735"
+      ],
+      "tags": {
+        "botId": "1295121225592602735"
+      },
+      "createdTimestamp": 1739043731749
+    },
+    "1337882417603547272": {
+      "name": "Boite de nuit",
+      "color": 0,
+      "permissions": "0",
+      "position": 6,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1739046425010
+    },
+    "1337921050763198549": {
+      "name": "I Love Music",
+      "color": 0,
+      "permissions": "3419160",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "676156711958216725"
+      ],
+      "tags": {
+        "botId": "676156711958216725"
+      },
+      "createdTimestamp": 1739055635873
+    },
+    "1338943686104318023": {
+      "name": "Fêtard(e)",
+      "color": 0,
+      "permissions": "0",
+      "position": 5,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1070096935756759091",
+        "1267087088575184948"
+      ],
+      "tags": null,
+      "createdTimestamp": 1739299451138
+    },
+    "1340470994753818707": {
+      "name": "24/7 🔊",
+      "color": 0,
+      "permissions": "3460168",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "369208607126061057"
+      ],
+      "tags": {
+        "botId": "369208607126061057"
+      },
+      "createdTimestamp": 1739663589896
+    },
+    "1426613894256005211": {
+      "name": "bot",
+      "color": 0,
+      "permissions": "8",
+      "position": 3,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1760201657595
+    },
+    "1426861182764978256": {
+      "name": "Ticket Tool",
+      "color": 0,
+      "permissions": "2416045072",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "557628352828014614"
+      ],
+      "tags": {
+        "botId": "557628352828014614"
+      },
+      "createdTimestamp": 1760260615770
+    },
+    "1441457631062523968": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1350462334501654650"
+      ],
+      "tags": {
+        "botId": "1350462334501654650"
+      },
+      "createdTimestamp": 1763740680233
+    },
+    "1443322354276106314": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1443319576204021800"
+      ],
+      "tags": {
+        "botId": "1443319576204021800"
+      },
+      "createdTimestamp": 1764185264892
+    },
+    "1444287507188682935": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764415375278
+    },
+    "1444655363474587822": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764503079051
+    }
+  },
+  "1072944188653568090": {
+    "1305111933762011166": {
+      "name": "admin",
+      "color": 0,
+      "permissions": "8",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1731233332816
+    },
+    "1370528952853991435": {
+      "name": "Beau",
+      "color": 16023551,
+      "permissions": "0",
+      "position": 9,
+      "hoist": false,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1365989943012229221"
+      ],
+      "tags": null,
+      "createdTimestamp": 1746829965557
+    },
+    "1396925669681791239": {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "6757044413000959",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "276060004262477825"
+      ],
+      "tags": {
+        "botId": "276060004262477825"
+      },
+      "createdTimestamp": 1753123433276
+    },
+    "1420478802944987266": {
+      "name": "24/7 🔊",
+      "color": 0,
+      "permissions": "37014536",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "369208607126061057"
+      ],
+      "tags": {
+        "botId": "369208607126061057"
+      },
+      "createdTimestamp": 1758738937842
+    },
+    "1425949008542695554": {
+      "name": "๖̶ζ͜͡Protect",
+      "color": 0,
+      "permissions": "8514618045497343",
+      "position": 20,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1261670657150943242"
+      ],
+      "tags": {
+        "botId": "1261670657150943242"
+      },
+      "createdTimestamp": 1760043136488
+    },
+    "1425952378611564585": {
+      "name": "Membres",
+      "color": 0,
+      "permissions": "0",
+      "position": 1,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1420756705158889483",
+        "1413624409289261166",
+        "1365989943012229221",
+        "388659537206444032",
+        "1263256552714801153",
+        "1381311557895458897",
+        "1360945003161063474",
+        "1408956328021594112",
+        "1395325829856231499",
+        "651141860194123797",
+        "593402043125858304",
+        "990981520162435092",
+        "975850390937542726",
+        "1352994614449278977",
+        "704338809856327686",
+        "309611959701995522",
+        "1342909460959461577",
+        "892098485107695626",
+        "858175191975591977",
+        "477413500801777675",
+        "1070096935756759091",
+        "1347730969469128704",
+        "1374457400043503658",
+        "1222261705720205372",
+        "1277979645362569229",
+        "1060257445341053009",
+        "1434173647073054892",
+        "1428070315917049867",
+        "558706089940615179",
+        "1017505304818225173",
+        "807281617239933018",
+        "372044330816241669",
+        "1106900290235539626",
+        "1431034619800846389",
+        "1347232402509922335",
+        "801233015187439656",
+        "868912020865577031",
+        "1141406674234650675",
+        "1016632756761018418"
+      ],
+      "tags": null,
+      "createdTimestamp": 1760043939975
+    },
+    "1425954725886693399": {
+      "name": "ModMail",
+      "color": 0,
+      "permissions": "6755399709879384",
+      "position": 12,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "575252669443211264"
+      ],
+      "tags": {
+        "botId": "575252669443211264"
+      },
+      "createdTimestamp": 1760044499609
+    },
+    "1425954790403342386": {
+      "name": "Tickets en mp",
+      "color": 0,
+      "permissions": "0",
+      "position": 13,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "575252669443211264"
+      ],
+      "tags": null,
+      "createdTimestamp": 1760044514991
+    },
+    "1425955032079274035": {
+      "name": "🐧",
+      "color": 0,
+      "permissions": "8",
+      "position": 19,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1365989943012229221",
+        "1444282569347825727",
+        "1070096935756759091",
+        "1016632756761018418"
+      ],
+      "tags": null,
+      "createdTimestamp": 1760044572611
+    },
+    "1425966765690847396": {
+      "name": "DISBOARD.org",
+      "color": 0,
+      "permissions": "4503599627389969",
+      "position": 16,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "302050872383242240"
+      ],
+      "tags": {
+        "botId": "302050872383242240"
+      },
+      "createdTimestamp": 1760047370122
+    },
+    "1426085430431973376": {
+      "name": "Annonce 📢",
+      "color": 0,
+      "permissions": "0",
+      "position": 6,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1413624409289261166",
+        "388659537206444032",
+        "1263256552714801153",
+        "1381311557895458897",
+        "1360945003161063474",
+        "1408956328021594112",
+        "651141860194123797",
+        "593402043125858304",
+        "1352994614449278977",
+        "892098485107695626",
+        "858175191975591977",
+        "1070096935756759091",
+        "1374457400043503658",
+        "1277979645362569229",
+        "1434173647073054892",
+        "807281617239933018",
+        "1106900290235539626",
+        "868912020865577031",
+        "1141406674234650675",
+        "1016632756761018418"
+      ],
+      "tags": null,
+      "createdTimestamp": 1760075662001
+    },
+    "1426159846008291348": {
+      "name": "Akatsuki",
+      "color": 0,
+      "permissions": "6783267808603341",
+      "position": 17,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "966999633329012756"
+      ],
+      "tags": {
+        "botId": "966999633329012756"
+      },
+      "createdTimestamp": 1760093404057
+    },
+    "1426161606131454066": {
+      "name": "UnbelievaBoat",
+      "color": 0,
+      "permissions": "8",
+      "position": 14,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "292953664492929025"
+      ],
+      "tags": {
+        "botId": "292953664492929025"
+      },
+      "createdTimestamp": 1760093823703
+    },
+    "1426170510982647961": {
+      "name": "Sondage 📋",
+      "color": 0,
+      "permissions": "0",
+      "position": 5,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1413624409289261166",
+        "1408956328021594112",
+        "1395325829856231499",
+        "651141860194123797",
+        "593402043125858304",
+        "1352994614449278977",
+        "858175191975591977",
+        "477413500801777675",
+        "1070096935756759091",
+        "1060257445341053009",
+        "807281617239933018",
+        "1106900290235539626",
+        "801233015187439656",
+        "868912020865577031",
+        "1141406674234650675",
+        "1016632756761018418"
+      ],
+      "tags": null,
+      "createdTimestamp": 1760095946785
+    },
+    "1426199197740302562": {
+      "name": "Crownicles",
+      "color": 0,
+      "permissions": "274878187592",
+      "position": 15,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "448110812801007618"
+      ],
+      "tags": {
+        "botId": "448110812801007618"
+      },
+      "createdTimestamp": 1760102786241
+    },
+    "1426754956500799532": {
+      "name": "GALACTIX BUMP",
+      "color": 0,
+      "permissions": "2057",
+      "position": 18,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1422310272349241460"
+      ],
+      "tags": {
+        "botId": "1422310272349241460"
+      },
+      "createdTimestamp": 1760235289455
+    },
+    "1428779942367465503": {
+      "name": "Le Gang Boosts",
+      "color": 16023551,
+      "permissions": "2222085186637377",
+      "position": 3,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "704338809856327686",
+        "1070096935756759091"
+      ],
+      "tags": {
+        "premiumSubscriberRole": true
+      },
+      "createdTimestamp": 1760718083708
+    },
+    "1438253553566351360": {
+      "name": "Mr. Robøt",
+      "color": 0,
+      "permissions": "6759111300345087",
+      "position": 11,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "308655472452304896"
+      ],
+      "tags": {
+        "botId": "308655472452304896"
+      },
+      "createdTimestamp": 1762976768629
+    },
+    "1439270631404343347": {
+      "name": "Le Gang Linux 🐧",
+      "color": 0,
+      "permissions": "0",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "593402043125858304",
+        "1070096935756759091",
+        "1060257445341053009"
+      ],
+      "tags": null,
+      "createdTimestamp": 1763219258882
+    },
+    "1441553883204686119": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8",
+      "position": 19,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1350462334501654650"
+      ],
+      "tags": {
+        "botId": "1350462334501654650"
+      },
+      "createdTimestamp": 1763763628532
+    },
+    "1443322406465835112": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8796093022207999",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1443319576204021800"
+      ],
+      "tags": {
+        "botId": "1443319576204021800"
+      },
+      "createdTimestamp": 1764185277335
+    },
+    "1444287550595272706": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 21,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764415385627
+    },
+    "1444425685090435264": {
+      "name": "DSC Protect MAJ 🚀",
+      "color": 0,
+      "permissions": "0",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1365989943012229221",
+        "975850390937542726",
+        "1352994614449278977",
+        "858175191975591977",
+        "1070096935756759091",
+        "807281617239933018",
+        "1347232402509922335",
+        "1141406674234650675",
+        "1016632756761018418"
+      ],
+      "tags": null,
+      "createdTimestamp": 1764448319457
+    },
+    "1447249943885516860": {
+      "name": "Bots",
+      "color": 0,
+      "permissions": "0",
+      "position": 18,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "369208607126061057",
+        "308655472452304896",
+        "302050872383242240",
+        "292953664492929025",
+        "966999633329012756",
+        "276060004262477825",
+        "1261670657150943242",
+        "575252669443211264",
+        "448110812801007618"
+      ],
+      "tags": null,
+      "createdTimestamp": 1765121675226
+    }
+  },
+  "1441479440692547608": {
+    "1441479722579005440": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1350462334501654650"
+      ],
+      "tags": {
+        "botId": "1350462334501654650"
+      },
+      "createdTimestamp": 1763745947261
+    }
+  },
+  "857325611147722822": {
+    "857325785139380265": {
+      "name": "Dyno",
+      "color": 0,
+      "permissions": "6764197668285631",
+      "position": 23,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "155149108183695360"
+      ],
+      "tags": {
+        "botId": "155149108183695360"
+      },
+      "createdTimestamp": 1624472795520
+    },
+    "857607611490893845": {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "6764197647478271",
+      "position": 22,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "318312854816161792"
+      ],
+      "tags": {
+        "botId": "318312854816161792"
+      },
+      "createdTimestamp": 1624539988158
+    },
+    "857611883686002698": {
+      "name": "Admin",
+      "color": 16711680,
+      "permissions": "109625986633",
+      "position": 24,
+      "hoist": true,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1070096935756759091",
+        "372044330816241669"
+      ],
+      "tags": null,
+      "createdTimestamp": 1624541006729
+    },
+    "1392858088473886751": {
+      "name": "Hébergeur Minecraft",
+      "color": 15105570,
+      "permissions": "674516128226881",
+      "position": 17,
+      "hoist": true,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1233144669169258617",
+        "1070391111216025691",
+        "372044330816241669"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752153646344
+    },
+    "1392858694030459022": {
+      "name": "Streamer",
+      "color": 10181046,
+      "permissions": "36146548952641",
+      "position": 14,
+      "hoist": true,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1122280795051143168",
+        "1214620556649828415",
+        "372044330816241669"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752153790720
+    },
+    "1392874118918967377": {
+      "name": "Minecraft",
+      "color": 0,
+      "permissions": "0",
+      "position": 13,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "798560353360281675",
+        "532255081559752706",
+        "1233144669169258617",
+        "1345754333274439681",
+        "753625543685046393",
+        "1399043394570944662",
+        "1070391111216025691",
+        "792022214459260939",
+        "403180517933187072",
+        "1122280795051143168",
+        "333260081686642690",
+        "1329784685991301213",
+        "758984835741515796",
+        "941490006592225301",
+        "1070096935756759091",
+        "898358750820327455",
+        "507648880620339211",
+        "428221167396978689",
+        "1214620556649828415",
+        "1385414494171299882",
+        "372044330816241669",
+        "385415081749512202",
+        "1327693463768006716",
+        "1390276221824139375"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752157468300
+    },
+    "1392874198497755297": {
+      "name": "Rocket League",
+      "color": 0,
+      "permissions": "0",
+      "position": 12,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "999443419283861595",
+        "798560353360281675",
+        "532255081559752706",
+        "794967250742280242",
+        "1233144669169258617",
+        "753625543685046393",
+        "1399043394570944662",
+        "333260081686642690",
+        "428221167396978689",
+        "1214620556649828415",
+        "1385414494171299882",
+        "372044330816241669",
+        "385415081749512202"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752157487273
+    },
+    "1392874218282156193": {
+      "name": "F1 25",
+      "color": 0,
+      "permissions": "0",
+      "position": 11,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "532255081559752706",
+        "1233144669169258617",
+        "753625543685046393",
+        "1399043394570944662",
+        "507648880620339211",
+        "372044330816241669"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752157491990
+    },
+    "1392874259013173340": {
+      "name": "FPS",
+      "color": 0,
+      "permissions": "0",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "999443419283861595",
+        "532255081559752706",
+        "753625543685046393",
+        "1399043394570944662",
+        "903980055888298025",
+        "333260081686642690",
+        "963456709488169070",
+        "941490006592225301",
+        "507648880620339211",
+        "428221167396978689",
+        "1214620556649828415",
+        "1385414494171299882",
+        "372044330816241669",
+        "962353874633650276",
+        "385415081749512202"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752157501701
+    },
+    "1392874731321032704": {
+      "name": "Live",
+      "color": 0,
+      "permissions": "0",
+      "position": 15,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "999443419283861595",
+        "532255081559752706",
+        "794967250742280242",
+        "1233144669169258617",
+        "753625543685046393",
+        "1399043394570944662",
+        "1070391111216025691",
+        "792022214459260939",
+        "903980055888298025",
+        "333260081686642690",
+        "963456709488169070",
+        "758984835741515796",
+        "344213300902494218",
+        "941490006592225301",
+        "1070096935756759091",
+        "507648880620339211",
+        "1385414494171299882",
+        "372044330816241669",
+        "962353874633650276",
+        "385415081749512202"
+      ],
+      "tags": null,
+      "createdTimestamp": 1752157614308
+    },
+    "1410368539730382888": {
+      "name": "24/7 🔊",
+      "color": 0,
+      "permissions": "3460168",
+      "position": 21,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "369208607126061057"
+      ],
+      "tags": {
+        "botId": "369208607126061057"
+      },
+      "createdTimestamp": 1756328463252
+    },
+    "1410371868145487945": {
+      "name": "๖̶ζ͜͡Protect",
+      "color": 0,
+      "permissions": "8514618045497343",
+      "position": 25,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1261670657150943242"
+      ],
+      "tags": {
+        "botId": "1261670657150943242"
+      },
+      "createdTimestamp": 1756329256808
+    },
+    "1410373367638392983": {
+      "name": "Spectateurs",
+      "color": 15277667,
+      "permissions": "0",
+      "position": 3,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "999443419283861595",
+        "798560353360281675",
+        "532255081559752706",
+        "794967250742280242",
+        "1233144669169258617",
+        "1345754333274439681",
+        "753625543685046393",
+        "1399043394570944662",
+        "1070391111216025691",
+        "792022214459260939",
+        "403180517933187072",
+        "903980055888298025",
+        "1122280795051143168",
+        "333260081686642690",
+        "963456709488169070",
+        "1329784685991301213",
+        "758984835741515796",
+        "344213300902494218",
+        "1235323772773339178",
+        "941490006592225301",
+        "1070096935756759091",
+        "898358750820327455",
+        "507648880620339211",
+        "428221167396978689",
+        "1214620556649828415",
+        "1385414494171299882",
+        "372044330816241669",
+        "962353874633650276",
+        "385415081749512202",
+        "1327693463768006716",
+        "1390276221824139375"
+      ],
+      "tags": null,
+      "createdTimestamp": 1756329614315
+    },
+    "1410383154925015043": {
+      "name": "Twitch",
+      "color": 0,
+      "permissions": "9007197644581976",
+      "position": 19,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1041679706988228639"
+      ],
+      "tags": {
+        "botId": "1041679706988228639"
+      },
+      "createdTimestamp": 1756331947786
+    },
+    "1410388996642705522": {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "6757044413000959",
+      "position": 18,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "276060004262477825"
+      ],
+      "tags": {
+        "botId": "276060004262477825"
+      },
+      "createdTimestamp": 1756333340560
+    },
+    "1410390306393817139": {
+      "name": "Annonce",
+      "color": 0,
+      "permissions": "0",
+      "position": 16,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "999443419283861595",
+        "532255081559752706",
+        "1399043394570944662",
+        "1070391111216025691",
+        "903980055888298025",
+        "333260081686642690",
+        "1070096935756759091",
+        "507648880620339211",
+        "428221167396978689",
+        "1385414494171299882",
+        "372044330816241669",
+        "385415081749512202"
+      ],
+      "tags": null,
+      "createdTimestamp": 1756333652829
+    },
+    "1410397787073544236": {
+      "name": "ModMail",
+      "color": 0,
+      "permissions": "6764195802901592",
+      "position": 20,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "575252669443211264"
+      ],
+      "tags": {
+        "botId": "575252669443211264"
+      },
+      "createdTimestamp": 1756335436362
+    },
+    "1410398113524613265": {
+      "name": "Support",
+      "color": 0,
+      "permissions": "0",
+      "position": 9,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "575252669443211264"
+      ],
+      "tags": null,
+      "createdTimestamp": 1756335514194
+    },
+    "1410663045113450566": {
+      "name": "Twitch Subscriber",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "903980055888298025",
+        "372044330816241669"
+      ],
+      "tags": {
+        "integrationId": "1410663037311913994"
+      },
+      "createdTimestamp": 1756398678807
+    },
+    "1410663045113450567": {
+      "name": "Twitch Subscriber: Tier 1",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "903980055888298025"
+      ],
+      "tags": {
+        "integrationId": "1410663037311913994"
+      },
+      "createdTimestamp": 1756398678807
+    },
+    "1410663045113450568": {
+      "name": "Twitch Subscriber: Tier 2",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 6,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": {
+        "integrationId": "1410663037311913994"
+      },
+      "createdTimestamp": 1756398678807
+    },
+    "1410663045113450569": {
+      "name": "Twitch Subscriber: Tier 3",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 5,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "372044330816241669"
+      ],
+      "tags": {
+        "integrationId": "1410663037311913994"
+      },
+      "createdTimestamp": 1756398678807
+    },
+    "1410997595433861131": {
+      "name": "Rivake'gang",
+      "color": 0,
+      "permissions": "0",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1070096935756759091"
+      ],
+      "tags": null,
+      "createdTimestamp": 1756478441819
+    },
+    "1434202101629718570": {
+      "name": "ClipManager",
+      "color": 0,
+      "permissions": "6755399441509464",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "916010455644913765"
+      ],
+      "tags": {
+        "botId": "916010455644913765"
+      },
+      "createdTimestamp": 1762010827215
+    },
+    "1443865288251674665": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8796093022207999",
+      "position": 22,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1443319576204021800"
+      ],
+      "tags": {
+        "botId": "1443319576204021800"
+      },
+      "createdTimestamp": 1764314710439
+    },
+    "1444287595873042545": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764415396422
+    }
+  },
+  "1295088227840954462": {
+    "1414222104026415219": {
+      "name": "Bras droit 🔑​",
+      "color": 6143,
+      "permissions": "0",
+      "position": 45,
+      "hoist": true,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1211041665423511613",
+        "1070096935756759091",
+        "1122280795051143168"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757247224576
+    },
+    "1414222628755079253": {
+      "name": "Twitch",
+      "color": 0,
+      "permissions": "9007197644581976",
+      "position": 53,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1041679706988228639"
+      ],
+      "tags": {
+        "botId": "1041679706988228639"
+      },
+      "createdTimestamp": 1757247349681
+    },
+    "1414223170021363747": {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "7909184376401151",
+      "position": 52,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "318312854816161792"
+      ],
+      "tags": {
+        "botId": "318312854816161792"
+      },
+      "createdTimestamp": 1757247478729
+    },
+    "1414223232428413011": {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "7346382645488887",
+      "position": 51,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "276060004262477825"
+      ],
+      "tags": {
+        "botId": "276060004262477825"
+      },
+      "createdTimestamp": 1757247493608
+    },
+    "1414223410514362379": {
+      "name": "Live 📺",
+      "color": 0,
+      "permissions": "0",
+      "position": 16,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1298704581747806259",
+        "1211041665423511613",
+        "811620495761473607",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "814509140532527174",
+        "364431710932172801",
+        "914531043833421854",
+        "1379772161996095548",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "1094712982765830207",
+        "1363160094677925888",
+        "1409582276919955536",
+        "1102673439740940409",
+        "642772085613133845",
+        "504685744477175808",
+        "1394804337942859788",
+        "1415356785187094558",
+        "1013770395112984618",
+        "1425202421918863432",
+        "1413250804793737297",
+        "1390727842727202898"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757247536067
+    },
+    "1414223441057415308": {
+      "name": "Spectateurs 👥",
+      "color": 0,
+      "permissions": "0",
+      "position": 5,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1023290629834416178",
+        "1107411681111441428",
+        "1298704581747806259",
+        "1206853016649732179",
+        "1325097738106437654",
+        "1424916709596200980",
+        "1211041665423511613",
+        "1213941224168357949",
+        "1296940762180616254",
+        "738498882455076956",
+        "1431596225697808426",
+        "372044330816241669",
+        "932263868892319774",
+        "741956997104271400",
+        "1336709965485965358",
+        "1258723429469782110",
+        "1017505304818225173",
+        "811620495761473607",
+        "1363665000882901173",
+        "1368487753809137696",
+        "1406580013884772442",
+        "457194181388009476",
+        "718863224702894081",
+        "1410975041184727070",
+        "1429894363114373201",
+        "1430678449739010154",
+        "898358750820327455",
+        "1070096935756759091",
+        "340527046474203136",
+        "988377365124096010",
+        "814509140532527174",
+        "1106654663446642688",
+        "364431710932172801",
+        "693009232663937054",
+        "914531043833421854",
+        "1278095348916555930",
+        "1040653615251083284",
+        "1379772161996095548",
+        "901425191450734652",
+        "785294541480656966",
+        "1155186977621168169",
+        "1242091007299026975",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "1094712982765830207",
+        "1443234474400940096",
+        "1363160094677925888",
+        "579242934919102464",
+        "1409582276919955536",
+        "526357544868904961",
+        "951967429259587686",
+        "802939450920402975",
+        "1053675728081797180",
+        "1005410962540593202",
+        "1256257936590766080",
+        "1185228939011035138",
+        "799728192474316870",
+        "1102673439740940409",
+        "1023170042063495238",
+        "642772085613133845",
+        "1096438683151896636",
+        "1162445503905157240",
+        "695173460179025930",
+        "504685744477175808",
+        "1419713988022763553",
+        "1411807349827567757",
+        "1394804337942859788",
+        "1415356785187094558",
+        "1013770395112984618",
+        "1425202421918863432",
+        "1394687105430458432",
+        "1413250804793737297",
+        "1390727842727202898"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757247543349
+    },
+    "1414223709321040068": {
+      "name": "Tickets v2",
+      "color": 0,
+      "permissions": "6755795383872728",
+      "position": 50,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1325579039888511056"
+      ],
+      "tags": {
+        "botId": "1325579039888511056"
+      },
+      "createdTimestamp": 1757247607308
+    },
+    "1414224370359865347": {
+      "name": "๖̶ζ͜͡Protect",
+      "color": 0,
+      "permissions": "8514618045497343",
+      "position": 60,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1261670657150943242"
+      ],
+      "tags": {
+        "botId": "1261670657150943242"
+      },
+      "createdTimestamp": 1757247764912
+    },
+    "1414224545870512264": {
+      "name": "๖̶ζ͜͡Player",
+      "color": 0,
+      "permissions": "8514618045497343",
+      "position": 48,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1260537040282452031"
+      ],
+      "tags": {
+        "botId": "1260537040282452031"
+      },
+      "createdTimestamp": 1757247806757
+    },
+    "1414224583690555475": {
+      "name": "๖̶ζ͜͡Player 2",
+      "color": 0,
+      "permissions": "8514618045497343",
+      "position": 47,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1260537056522670121"
+      ],
+      "tags": {
+        "botId": "1260537056522670121"
+      },
+      "createdTimestamp": 1757247815774
+    },
+    "1414235248002076746": {
+      "name": "Annonce 🔔",
+      "color": 0,
+      "permissions": "0",
+      "position": 20,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1298704581747806259",
+        "1424916709596200980",
+        "1211041665423511613",
+        "932263868892319774",
+        "811620495761473607",
+        "1363665000882901173",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "1070096935756759091",
+        "914531043833421854",
+        "901425191450734652",
+        "1122280795051143168",
+        "1114231715829919856",
+        "1094712982765830207",
+        "1363160094677925888",
+        "1409582276919955536",
+        "1053675728081797180",
+        "1185228939011035138",
+        "1102673439740940409",
+        "642772085613133845",
+        "1096438683151896636",
+        "1415356785187094558"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757250358344
+    },
+    "1414249222538133596": {
+      "name": "Support 💌",
+      "color": 2123412,
+      "permissions": "0",
+      "position": 43,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1122280795051143168"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757253690133
+    },
+    "1414256251897909338": {
+      "name": "Modérateur Twitch/Discord 🔨",
+      "color": 9520895,
+      "permissions": "8815345376698496",
+      "position": 44,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1107411681111441428",
+        "1211041665423511613",
+        "372044330816241669",
+        "1070096935756759091",
+        "814509140532527174",
+        "899039121295704116",
+        "364431710932172801",
+        "323166883656499200",
+        "1122280795051143168",
+        "990981520162435092",
+        "1443234474400940096",
+        "951967429259587686"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757255366063
+    },
+    "1414275058263916707": {
+      "name": "Clemax Radio",
+      "color": 0,
+      "permissions": "37014536",
+      "position": 56,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "369208607126061057"
+      ],
+      "tags": {
+        "botId": "369208607126061057"
+      },
+      "createdTimestamp": 1757259849850
+    },
+    "1414280845031641218": {
+      "name": "Créateur de contenus ​🎬​",
+      "color": 264971,
+      "permissions": "0",
+      "position": 21,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757261229523
+    },
+    "1414281983286055076": {
+      "name": "InviteLogger",
+      "color": 0,
+      "permissions": "6755399709551865",
+      "position": 54,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "499595256270946326"
+      ],
+      "tags": {
+        "botId": "499595256270946326"
+      },
+      "createdTimestamp": 1757261500904
+    },
+    "1414286373115920515": {
+      "name": "Sonadage 📊",
+      "color": 0,
+      "permissions": "0",
+      "position": 15,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1211041665423511613",
+        "1258723429469782110",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "364431710932172801",
+        "914531043833421854",
+        "901425191450734652",
+        "323166883656499200",
+        "1122280795051143168",
+        "1114231715829919856",
+        "1409582276919955536",
+        "1102673439740940409",
+        "642772085613133845",
+        "1415356785187094558"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757262547521
+    },
+    "1414287285171650671": {
+      "name": "Community manager 📫",
+      "color": 1146986,
+      "permissions": "0",
+      "position": 42,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757262764972
+    },
+    "1414290102003306667": {
+      "name": "Streameur ​🏴󠁧󠁢󠁥󠁮󠁧󠁿​",
+      "color": 5533306,
+      "permissions": "0",
+      "position": 19,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "372044330816241669",
+        "1040653615251083284",
+        "1155186977621168169"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757263436557
+    },
+    "1414290670692208782": {
+      "name": "Créateur 👑",
+      "color": 15798031,
+      "permissions": "0",
+      "position": 46,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1122280795051143168"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757263572143
+    },
+    "1414291225128734902": {
+      "name": "——————————————————",
+      "color": 0,
+      "permissions": "0",
+      "position": 40,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1122280795051143168"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757263704331
+    },
+    "1414291430205296770": {
+      "name": "👑",
+      "color": 0,
+      "permissions": "8",
+      "position": 62,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1211041665423511613",
+        "1070096935756759091",
+        "899039121295704116"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757263753225
+    },
+    "1414292015788855496": {
+      "name": "Staff",
+      "color": 0,
+      "permissions": "0",
+      "position": 41,
+      "hoist": false,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1107411681111441428",
+        "1211041665423511613",
+        "372044330816241669",
+        "814509140532527174",
+        "899039121295704116",
+        "364431710932172801",
+        "323166883656499200",
+        "1122280795051143168",
+        "990981520162435092",
+        "1443234474400940096"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757263892839
+    },
+    "1414553490725797919": {
+      "name": "V.I.P 💎",
+      "color": 16765696,
+      "permissions": "0",
+      "position": 26,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "990981520162435092",
+        "526357544868904961",
+        "802939450920402975"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326233322
+    },
+    "1414554844320108626": {
+      "name": "Rocket League 🚗",
+      "color": 0,
+      "permissions": "0",
+      "position": 13,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1023290629834416178",
+        "1298704581747806259",
+        "1211041665423511613",
+        "1296940762180616254",
+        "372044330816241669",
+        "932263868892319774",
+        "1258723429469782110",
+        "1017505304818225173",
+        "811620495761473607",
+        "1368487753809137696",
+        "1406580013884772442",
+        "718863224702894081",
+        "1410975041184727070",
+        "898358750820327455",
+        "988377365124096010",
+        "814509140532527174",
+        "1106654663446642688",
+        "364431710932172801",
+        "914531043833421854",
+        "1278095348916555930",
+        "1040653615251083284",
+        "1379772161996095548",
+        "323166883656499200",
+        "1155186977621168169",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "1094712982765830207",
+        "579242934919102464",
+        "1409582276919955536",
+        "526357544868904961",
+        "1053675728081797180",
+        "1005410962540593202",
+        "1185228939011035138",
+        "799728192474316870",
+        "1102673439740940409",
+        "504685744477175808",
+        "1411807349827567757",
+        "1394804337942859788",
+        "1415356785187094558",
+        "1413250804793737297",
+        "1390727842727202898"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326556044
+    },
+    "1414555151745945630": {
+      "name": "Fortnite 🔫",
+      "color": 0,
+      "permissions": "0",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1258723429469782110",
+        "811620495761473607",
+        "1406580013884772442",
+        "1410975041184727070",
+        "364431710932172801",
+        "901425191450734652",
+        "1122280795051143168",
+        "990981520162435092",
+        "1409582276919955536",
+        "802939450920402975",
+        "799728192474316870",
+        "1102673439740940409",
+        "1415356785187094558",
+        "1425202421918863432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326629340
+    },
+    "1414555264274665554": {
+      "name": "Fall guys 📍",
+      "color": 0,
+      "permissions": "0",
+      "position": 11,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1017505304818225173",
+        "898358750820327455",
+        "364431710932172801",
+        "1122280795051143168",
+        "1415356785187094558"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326656169
+    },
+    "1414555383271522384": {
+      "name": "Valorant 💣",
+      "color": 0,
+      "permissions": "0",
+      "position": 9,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1023290629834416178",
+        "1298704581747806259",
+        "1424916709596200980",
+        "372044330816241669",
+        "932263868892319774",
+        "1258723429469782110",
+        "811620495761473607",
+        "1363665000882901173",
+        "1368487753809137696",
+        "364431710932172801",
+        "693009232663937054",
+        "1155186977621168169",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "526357544868904961",
+        "802939450920402975",
+        "1185228939011035138",
+        "1162445503905157240"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326684540
+    },
+    "1414555772913975389": {
+      "name": "GTA 5 🚔",
+      "color": 0,
+      "permissions": "0",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1211041665423511613",
+        "372044330816241669",
+        "1017505304818225173",
+        "364431710932172801",
+        "693009232663937054",
+        "901425191450734652",
+        "1122280795051143168",
+        "526357544868904961",
+        "504685744477175808",
+        "1425202421918863432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326777438
+    },
+    "1414555937112588398": {
+      "name": "Counter strike 💥",
+      "color": 0,
+      "permissions": "0",
+      "position": 12,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1298704581747806259",
+        "1017505304818225173",
+        "898358750820327455",
+        "364431710932172801",
+        "1122280795051143168",
+        "799728192474316870"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326816586
+    },
+    "1414556159087611915": {
+      "name": "Autres jeux 🎮",
+      "color": 0,
+      "permissions": "0",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1023290629834416178",
+        "1298704581747806259",
+        "1211041665423511613",
+        "372044330816241669",
+        "932263868892319774",
+        "1258723429469782110",
+        "1017505304818225173",
+        "811620495761473607",
+        "1406580013884772442",
+        "718863224702894081",
+        "1070096935756759091",
+        "364431710932172801",
+        "914531043833421854",
+        "901425191450734652",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "1094712982765830207",
+        "1409582276919955536",
+        "526357544868904961",
+        "802939450920402975",
+        "1185228939011035138",
+        "1102673439740940409",
+        "642772085613133845",
+        "1096438683151896636",
+        "1394687105430458432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757326869509
+    },
+    "1414557837459193866": {
+      "name": "Annonce V.I.P ✨",
+      "color": 0,
+      "permissions": "0",
+      "position": 22,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1211041665423511613",
+        "1258723429469782110",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "914531043833421854",
+        "1379772161996095548",
+        "1122280795051143168",
+        "1114231715829919856",
+        "990981520162435092",
+        "1102673439740940409",
+        "642772085613133845",
+        "1415356785187094558",
+        "1394687105430458432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757327269664
+    },
+    "1414558225415671900": {
+      "name": "Recrutement staff/twitch 🛠️",
+      "color": 0,
+      "permissions": "0",
+      "position": 17,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1211041665423511613",
+        "1258723429469782110",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "364431710932172801",
+        "914531043833421854",
+        "1122280795051143168",
+        "1114231715829919856",
+        "1409582276919955536",
+        "1102673439740940409",
+        "642772085613133845",
+        "1415356785187094558",
+        "1394687105430458432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757327362160
+    },
+    "1414558513681793034": {
+      "name": "Événements/Cadeaux 🎁",
+      "color": 0,
+      "permissions": "0",
+      "position": 18,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1211041665423511613",
+        "1258723429469782110",
+        "811620495761473607",
+        "1368487753809137696",
+        "1406580013884772442",
+        "1410975041184727070",
+        "898358750820327455",
+        "988377365124096010",
+        "364431710932172801",
+        "914531043833421854",
+        "901425191450734652",
+        "1122280795051143168",
+        "1114231715829919856",
+        "1409582276919955536",
+        "1102673439740940409",
+        "642772085613133845",
+        "1013770395112984618",
+        "1394687105430458432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757327430888
+    },
+    "1414559897307320402": {
+      "name": "Donnateur 💸",
+      "color": 3066993,
+      "permissions": "0",
+      "position": 25,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757327760770
+    },
+    "1414560152224272424": {
+      "name": "Amis 🤗",
+      "color": 15158332,
+      "permissions": "0",
+      "position": 24,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1107411681111441428",
+        "1211041665423511613",
+        "372044330816241669",
+        "1070096935756759091",
+        "899039121295704116",
+        "693009232663937054",
+        "990981520162435092"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757327821547
+    },
+    "1414560683630264500": {
+      "name": "——————————————————",
+      "color": 0,
+      "permissions": "0",
+      "position": 23,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757327948244
+    },
+    "1414562533410345023": {
+      "name": "Équipe Discord",
+      "color": 5793266,
+      "permissions": "0",
+      "position": 39,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328389266
+    },
+    "1414562534505189548": {
+      "name": "Propriétaire d'un serveur partenaire",
+      "color": 5793266,
+      "permissions": "0",
+      "position": 38,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328389527
+    },
+    "1414562535322947696": {
+      "name": "Ancien des programmes de modération",
+      "color": 16553547,
+      "permissions": "0",
+      "position": 37,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328389722
+    },
+    "1414562536040431626": {
+      "name": "Événements HypeSquad",
+      "color": 16496712,
+      "permissions": "0",
+      "position": 36,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328389893
+    },
+    "1414562537025966182": {
+      "name": "Bravery de la HypeSquad",
+      "color": 10257647,
+      "permissions": "0",
+      "position": 35,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "738498882455076956",
+        "372044330816241669",
+        "1070096935756759091",
+        "899039121295704116",
+        "1339251095418961971",
+        "901425191450734652",
+        "323166883656499200",
+        "951967429259587686",
+        "1005410962540593202",
+        "799728192474316870",
+        "642772085613133845",
+        "695173460179025930",
+        "1013770395112984618"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757328390128
+    },
+    "1414562538133127249": {
+      "name": "Brilliance de la HypeSquad",
+      "color": 16022375,
+      "permissions": "0",
+      "position": 34,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1017505304818225173",
+        "1106654663446642688",
+        "1122280795051143168",
+        "579242934919102464"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757328390392
+    },
+    "1414562538636710019": {
+      "name": "Balance de la HypeSquad",
+      "color": 4578752,
+      "permissions": "0",
+      "position": 33,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1211041665423511613",
+        "932263868892319774",
+        "457194181388009476",
+        "693009232663937054",
+        "990981520162435092",
+        "526357544868904961",
+        "802939450920402975"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757328390512
+    },
+    "1414562539366518814": {
+      "name": "Chasseur de bugs Discord",
+      "color": 3908956,
+      "permissions": "0",
+      "position": 32,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328390686
+    },
+    "1414562540280614914": {
+      "name": "Chasseur de bugs Discord",
+      "color": 16766316,
+      "permissions": "0",
+      "position": 31,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328390904
+    },
+    "1414562542268973137": {
+      "name": "Développeur actif",
+      "color": 3058023,
+      "permissions": "0",
+      "position": 30,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1107411681111441428",
+        "693009232663937054",
+        "951967429259587686",
+        "802939450920402975"
+      ],
+      "tags": null,
+      "createdTimestamp": 1757328391378
+    },
+    "1414562543854424155": {
+      "name": "Développeur de bot certifié de la première heure",
+      "color": 5793266,
+      "permissions": "0",
+      "position": 29,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328391756
+    },
+    "1414562544680439968": {
+      "name": "Soutien de la première heure",
+      "color": 10270975,
+      "permissions": "0",
+      "position": 28,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1757328391953
+    },
+    "1417228255471337483": {
+      "name": "Booster 🔮",
+      "color": 16023551,
+      "permissions": "2222085186637377",
+      "position": 27,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": {
+        "premiumSubscriberRole": true
+      },
+      "createdTimestamp": 1757963946932
+    },
+    "1422467516508405760": {
+      "name": "Minecraft 🌍",
+      "color": 0,
+      "permissions": "0",
+      "position": 14,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "388386460031778817",
+        "1298704581747806259",
+        "372044330816241669",
+        "1017505304818225173",
+        "1368487753809137696",
+        "1406580013884772442",
+        "898358750820327455",
+        "1070096935756759091",
+        "364431710932172801",
+        "914531043833421854",
+        "901425191450734652",
+        "1122280795051143168",
+        "990981520162435092",
+        "526357544868904961",
+        "802939450920402975",
+        "504685744477175808",
+        "1415356785187094558",
+        "1425202421918863432"
+      ],
+      "tags": null,
+      "createdTimestamp": 1759213084104
+    },
+    "1423725503382294591": {
+      "name": "UnbelievaBoat",
+      "color": 0,
+      "permissions": "8",
+      "position": 55,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "292953664492929025"
+      ],
+      "tags": {
+        "botId": "292953664492929025"
+      },
+      "createdTimestamp": 1759513011547
+    },
+    "1426862372978692213": {
+      "name": "John-Bot",
+      "color": 0,
+      "permissions": "8472282486271231",
+      "position": 58,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "958547309728256081"
+      ],
+      "tags": {
+        "botId": "958547309728256081"
+      },
+      "createdTimestamp": 1760260899539
+    },
+    "1426877481494777869": {
+      "name": "NotifyMe",
+      "color": 0,
+      "permissions": "805751816",
+      "position": 57,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1044050359586394192"
+      ],
+      "tags": {
+        "botId": "1044050359586394192"
+      },
+      "createdTimestamp": 1760264501690
+    },
+    "1426902115149676625": {
+      "name": "Twitch Subscriber",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "457194181388009476",
+        "899039121295704116",
+        "1122280795051143168"
+      ],
+      "tags": {
+        "integrationId": "1426902107801256077"
+      },
+      "createdTimestamp": 1760270374811
+    },
+    "1426902115149676626": {
+      "name": "Twitch Subscriber: Tier 1",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 3,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "457194181388009476",
+        "899039121295704116"
+      ],
+      "tags": {
+        "integrationId": "1426902107801256077"
+      },
+      "createdTimestamp": 1760270374811
+    },
+    "1426902115149676627": {
+      "name": "Twitch Subscriber: Tier 2",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": {
+        "integrationId": "1426902107801256077"
+      },
+      "createdTimestamp": 1760270374811
+    },
+    "1426902115149676628": {
+      "name": "Twitch Subscriber: Tier 3",
+      "color": 0,
+      "permissions": "2222085186637377",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1122280795051143168"
+      ],
+      "tags": {
+        "integrationId": "1426902107801256077"
+      },
+      "createdTimestamp": 1760270374811
+    },
+    "1426976308558037034": {
+      "name": "Crownicles",
+      "color": 0,
+      "permissions": "274878187592",
+      "position": 49,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "448110812801007618"
+      ],
+      "tags": {
+        "botId": "448110812801007618"
+      },
+      "createdTimestamp": 1760288063898
+    },
+    "1429882951964823704": {
+      "name": "Noob",
+      "color": 0,
+      "permissions": "0",
+      "position": 6,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1760981061689
+    },
+    "1430288331316400149": {
+      "name": "Akatsuki",
+      "color": 0,
+      "permissions": "6783267808603333",
+      "position": 59,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "966999633329012756"
+      ],
+      "tags": {
+        "botId": "966999633329012756"
+      },
+      "createdTimestamp": 1761077711658
+    },
+    "1443864452788125699": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "8796093022207999",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1443319576204021800"
+      ],
+      "tags": {
+        "botId": "1443319576204021800"
+      },
+      "createdTimestamp": 1764314511249
+    },
+    "1444287634716360850": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 61,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764415405683
+    }
+  },
+  "1349447357132967956": {
+    "1370466289037873282": {
+      "name": "💎┊Boost",
+      "color": 16711935,
+      "permissions": "2222085186637377",
+      "position": 7,
+      "hoist": true,
+      "mentionable": false,
+      "icon": "65a60ce1fb1620ddc14232c146124538",
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": {
+        "premiumSubscriberRole": true
+      },
+      "createdTimestamp": 1746815025339
+    },
+    "1370473756245491835": {
+      "name": "InviteLogger",
+      "color": 0,
+      "permissions": "2251800082181369",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "499595256270946326"
+      ],
+      "tags": {
+        "botId": "499595256270946326"
+      },
+      "createdTimestamp": 1746816805660
+    },
+    "1370473834620391609": {
+      "name": "Statbot",
+      "color": 0,
+      "permissions": "269601936",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "491769129318088714"
+      ],
+      "tags": {
+        "botId": "491769129318088714"
+      },
+      "createdTimestamp": 1746816824346
+    },
+    "1383359965288333456": {
+      "name": "Chell",
+      "color": 0,
+      "permissions": "8",
+      "position": 13,
+      "hoist": false,
+      "mentionable": false,
+      "icon": "d59af30c8452b20a34e80f9e7f0c6337",
+      "unicodeEmoji": null,
+      "members": [
+        "1383154920231796736"
+      ],
+      "tags": {
+        "botId": "1383154920231796736"
+      },
+      "createdTimestamp": 1749889117310
+    },
+    "1384250006285848618": {
+      "name": "ღ🌸~͓̽ǤŁa̠̠ĐØS~🌸ღ",
+      "color": 10382335,
+      "permissions": "2815849748507838",
+      "position": 12,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1098179232779223080"
+      ],
+      "tags": {
+        "botId": "1098179232779223080"
+      },
+      "createdTimestamp": 1750101319620
+    },
+    "1396870197893136475": {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "1153784935345407",
+      "position": 11,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "318312854816161792"
+      ],
+      "tags": {
+        "botId": "318312854816161792"
+      },
+      "createdTimestamp": 1753110207771
+    },
+    "1399051379158417482": {
+      "name": "Coin' Verne",
+      "color": 0,
+      "permissions": "8",
+      "position": 9,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1399050922554036414"
+      ],
+      "tags": {
+        "botId": "1399050922554036414"
+      },
+      "createdTimestamp": 1753630241909
+    },
+    "1411079736163303575": {
+      "name": ".",
+      "color": 3066993,
+      "permissions": "1721835209097215",
+      "position": 14,
+      "hoist": true,
+      "mentionable": true,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1364543871622713376",
+        "1157346587845083218",
+        "1295037828694278144"
+      ],
+      "tags": null,
+      "createdTimestamp": 1756498025695
+    },
+    "1414217376806866997": {
+      "name": "Make it a Quote",
+      "color": 0,
+      "permissions": "274878024704",
+      "position": 6,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "949479338275913799"
+      ],
+      "tags": {
+        "botId": "949479338275913799"
+      },
+      "createdTimestamp": 1757246097519
+    },
+    "1414217432255434795": {
+      "name": "Koya",
+      "color": 0,
+      "permissions": "590983204433143",
+      "position": 5,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "276060004262477825"
+      ],
+      "tags": {
+        "botId": "276060004262477825"
+      },
+      "createdTimestamp": 1757246110739
+    },
+    "1414217474471100549": {
+      "name": "Jockie Music",
+      "color": 0,
+      "permissions": "8",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "411916947773587456"
+      ],
+      "tags": {
+        "botId": "411916947773587456"
+      },
+      "createdTimestamp": 1757246120804
+    },
+    "1414217516603019327": {
+      "name": "CoinsBot®",
+      "color": 0,
+      "permissions": "8",
+      "position": 3,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1155030809951084698"
+      ],
+      "tags": {
+        "botId": "1155030809951084698"
+      },
+      "createdTimestamp": 1757246130849
+    },
+    "1438954556099924009": {
+      "name": "Admin",
+      "color": 0,
+      "permissions": "8",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1364543871622713376"
+      ],
+      "tags": null,
+      "createdTimestamp": 1763143900657
+    },
+    "1444646597664313347": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764500989119
+    }
+  },
+  "1420094090002825439": {
+    "1420094779173240934": {
+      "name": "bots",
+      "color": 16644345,
+      "permissions": "8",
+      "position": 13,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "155149108183695360",
+        "318312854816161792",
+        "557628352828014614",
+        "678344927997853742",
+        "792842038332358656",
+        "1123260264557584565"
+      ],
+      "tags": null,
+      "createdTimestamp": 1758647379440
+    },
+    "1420094855211782174": {
+      "name": "🐦‍⬛・αΩ",
+      "color": 985610,
+      "permissions": "8",
+      "position": 15,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "704338809856327686"
+      ],
+      "tags": null,
+      "createdTimestamp": 1758647397569
+    },
+    "1420095371274878979": {
+      "name": "HypeProtect",
+      "color": 0,
+      "permissions": "8",
+      "position": 12,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1123260264557584565"
+      ],
+      "tags": {
+        "botId": "1123260264557584565"
+      },
+      "createdTimestamp": 1758647520608
+    },
+    "1420095587830992928": {
+      "name": "Dyno",
+      "color": 0,
+      "permissions": "1513962695871",
+      "position": 11,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "155149108183695360"
+      ],
+      "tags": {
+        "botId": "155149108183695360"
+      },
+      "createdTimestamp": 1758647572239
+    },
+    "1420096118171238640": {
+      "name": "゛゛゛゛゛゛゛゛゛",
+      "color": 0,
+      "permissions": "0",
+      "position": 4,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1758647698682
+    },
+    "1420096183535145142": {
+      "name": "゛゛゛゛゛゛゛゛゛",
+      "color": 0,
+      "permissions": "0",
+      "position": 14,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1758647714266
+    },
+    "1420125690577027222": {
+      "name": "verif",
+      "color": 2123412,
+      "permissions": "1197095502483009",
+      "position": 3,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "704338809856327686"
+      ],
+      "tags": null,
+      "createdTimestamp": 1758654749293
+    },
+    "1420125752552329439": {
+      "name": "゛゛゛゛゛゛゛゛゛",
+      "color": 0,
+      "permissions": "0",
+      "position": 2,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1758654764069
+    },
+    "1420126167809392661": {
+      "name": "poulet",
+      "color": 12745742,
+      "permissions": "2270500264878086",
+      "position": 5,
+      "hoist": true,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1758654863074
+    },
+    "1420670958166999102": {
+      "name": "゛゛゛゛゛゛゛゛゛",
+      "color": 0,
+      "permissions": "0",
+      "position": 6,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [],
+      "tags": null,
+      "createdTimestamp": 1758784751217
+    },
+    "1420836286041952419": {
+      "name": "Sapphire",
+      "color": 0,
+      "permissions": "1101596716286",
+      "position": 10,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "678344927997853742"
+      ],
+      "tags": {
+        "botId": "678344927997853742"
+      },
+      "createdTimestamp": 1758824168454
+    },
+    "1422647458848313418": {
+      "name": "Discohook Utils",
+      "color": 0,
+      "permissions": "275750677568",
+      "position": 8,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "792842038332358656"
+      ],
+      "tags": {
+        "botId": "792842038332358656"
+      },
+      "createdTimestamp": 1759255985701
+    },
+    "1422653401979945115": {
+      "name": "Ticket Tool",
+      "color": 0,
+      "permissions": "2416045072",
+      "position": 9,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "557628352828014614"
+      ],
+      "tags": {
+        "botId": "557628352828014614"
+      },
+      "createdTimestamp": 1759257402654
+    },
+    "1427695117216514092": {
+      "name": "DraftBot",
+      "color": 0,
+      "permissions": "1153784935345407",
+      "position": 7,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "318312854816161792"
+      ],
+      "tags": {
+        "botId": "318312854816161792"
+      },
+      "createdTimestamp": 1760459441237
+    },
+    "1444987995018236028": {
+      "name": "DSC Protect",
+      "color": 0,
+      "permissions": "4292493394837503",
+      "position": 1,
+      "hoist": false,
+      "mentionable": false,
+      "icon": null,
+      "unicodeEmoji": null,
+      "members": [
+        "1444282569347825727"
+      ],
+      "tags": {
+        "botId": "1444282569347825727"
+      },
+      "createdTimestamp": 1764582384591
+    }
+  }
+}

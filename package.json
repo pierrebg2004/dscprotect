@@ -1,0 +1,27 @@
+{
+    "name": "discord-antiraid-bot",
+    "version": "1.0.0",
+    "description": "Advanced Anti-Raid Discord Bot",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc --noEmit",
+        "start": "NODE_OPTIONS='--no-deprecation --no-warnings' tsx src/index.ts",
+        "dev": "NODE_OPTIONS='--no-deprecation --no-warnings' tsx src/index.ts",
+        "deploy": "NODE_OPTIONS='--no-deprecation --no-warnings' tsx src/deploy-commands.ts"
+    },
+    "engines": {
+        "node": "25.2.1"
+    },
+    "dependencies": {
+        "discord.js": "^14.25.1",
+        "dotenv": "^17.2.3"
+    },
+    "devDependencies": {
+        "@types/node": "^25.0.3",
+        "ts-node": "10.9.2",
+        "tsx": "^4.21.0",
+        "typescript": "^5.9.3"
+    }
+}

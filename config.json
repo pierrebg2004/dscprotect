@@ -1,0 +1,152 @@
+{
+    "prefix": "!",
+    "security": {
+        "antiSpam": {
+            "enabled": true,
+            "messageLimit": 5,
+            "timeWindow": 5000,
+            "action": "timeout",
+            "timeoutDuration": 60000
+        },
+        "antiRaid": {
+            "enabled": true,
+            "joinLimit": 2,
+            "timeWindow": 5000,
+            "action": "kick",
+            "accountAgeLimit": 3
+        },
+        "antiVoiceRaid": {
+            "enabled": true,
+            "joinLimit": 5,
+            "timeWindow": 5000,
+            "action": "disconnect"
+        },
+        "antiThread": {
+            "enabled": true,
+            "threadLimit": 2,
+            "timeWindow": 5000,
+            "action": "timeout",
+            "timeoutDuration": 300000
+        },
+        "antiNuke": {
+            "enabled": true,
+            "channelDeleteLimit": 0,
+            "roleDeleteLimit": 0,
+            "banLimit": 0,
+            "kickLimit": 0,
+            "timeWindow": 5000,
+            "action": "removeRoles"
+        },
+        "antiEmojiSpam": {
+            "enabled": true,
+            "emojiLimit": 10,
+            "action": "delete"
+        },
+        "antiStickerSpam": {
+            "enabled": true,
+            "stickerLimit": 3,
+            "action": "delete"
+        },
+        "antiInviteSpam": {
+            "enabled": true,
+            "action": "delete"
+        },
+        "antiMassReactions": {
+            "enabled": true,
+            "reactionLimit": 5,
+            "timeWindow": 5000,
+            "action": "timeout",
+            "timeoutDuration": 300000
+        },
+        "antiMassRoles": {
+            "enabled": true,
+            "roleLimit": 0,
+            "timeWindow": 5000,
+            "action": "removeRoles"
+        },
+        "antiMassChannels": {
+            "enabled": true,
+            "channelLimit": 0,
+            "timeWindow": 5000,
+            "action": "removeRoles"
+        },
+        "antiLinkSpam": {
+            "enabled": true,
+            "linkLimit": 3,
+            "action": "delete"
+        },
+        "antiCapsSpam": {
+            "enabled": true,
+            "capsPercentage": 70,
+            "minLength": 10,
+            "action": "delete"
+        },
+        "antiDuplicateSpam": {
+            "enabled": true,
+            "duplicateLimit": 3,
+            "timeWindow": 60000,
+            "action": "timeout",
+            "timeoutDuration": 300000
+        },
+        "antiAttachmentSpam": {
+            "enabled": true,
+            "attachmentLimit": 5,
+            "action": "delete"
+        },
+        "antiMentionSpam": {
+            "enabled": true,
+            "mentionLimit": 3,
+            "action": "delete"
+        },
+        "antiNewlineSpam": {
+            "enabled": true,
+            "newlineLimit": 15,
+            "action": "delete"
+        },
+        "antiSpoilerSpam": {
+            "enabled": true,
+            "spoilerLimit": 10,
+            "action": "delete"
+        },
+        "antiWebhook": {
+            "enabled": true,
+            "action": "delete"
+        },
+        "antiHack": {
+            "enabled": true,
+            "action": "revert"
+        },
+        "identityProtection": {
+            "enabled": true
+        },
+        "vanityProtection": {
+            "enabled": true
+        },
+        "antivirus": {
+            "enabled": true,
+            "blockedExtensions": [
+                ".exe",
+                ".bat",
+                ".cmd",
+                ".msi",
+                ".vbs",
+                ".js",
+                ".jar",
+                ".sh",
+                ".apk",
+                ".com",
+                ".scr"
+            ],
+            "action": "delete"
+        },
+        "antiZalgo": {
+            "enabled": true,
+            "threshold": 0.5,
+            "action": "delete"
+        },
+        "antiToken": {
+            "enabled": true,
+            "action": "delete"
+        }
+    }
+}
